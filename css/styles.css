@@ -406,6 +406,7 @@ h6 {
 }
 
 .footer-socialmedia-title {
+    margin-top: 0;
     margin-bottom: 16px;
     font-weight: 500;
     font-size: 16px;
